@@ -498,15 +498,15 @@ progress {
 
   .coluna {
     display: inline-block;
-    width: 3;
+    width: 375px;
     vertical-align: middle;
     text-align: justify;
+    margin-bottom: 40px;
   }
 
   .linha > h1 {
-    text-align: left;
-    margin-bottom: 3%;
-    margin-top: 1%;
+    text-align: le;
+    margin-bottom: 20px;
     font-weight: 400;
   }
 
@@ -514,10 +514,10 @@ progress {
     background-color: salmon;
     border-radius: 7px;
     padding: 2px 0;
-    width: 30%;
+    width: 32%;
     margin-top: -18px;
     margin-bottom: 15px;
-    margin-left: 0;
+    margin-left: 250px;
   }
 
   .linha > h2 {
@@ -541,14 +541,14 @@ progress {
     display: inline-block;
     background-color: #5db390;
     border-radius: 5px;
-    width: 50%;
+    width: 700px;
     margin-top: 15px;
   }
 
   .contato > h2 {
     font-size: 25px;
     text-align: center;
-    margin-left: 0;
+    margin-left: 220px;
   }
 
   .contato > ul > li {
