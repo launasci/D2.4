@@ -309,7 +309,7 @@ progress {
   }
 
   .nome {
-    font-size:2rem;
+    font-size: 2rem;
     font-weight: 900;
     color: #293651;
     margin-bottom: 2%;
@@ -318,7 +318,7 @@ progress {
     text-align: left;
     letter-spacing: 5px;
   }
-  
+
   .borda {
     background-color: salmon;
     border-radius: 7px;
@@ -327,12 +327,12 @@ progress {
     margin-top: 2%;
     margin-left: 20%;
   }
-  
+
   .profissao {
     font-size: 1.5rem;
     font-weight: 200;
     color: #293651;
-    margin-bottom:1%;
+    margin-bottom: 1%;
     margin-left: 5%;
     margin-top: 3%;
   }
@@ -347,7 +347,7 @@ progress {
     top: 16%;
     left: 0%;
   }
-  
+
   li > img {
     margin-top: 2%;
     width: 70%;
@@ -383,12 +383,11 @@ progress {
     height: 4px;
     margin-left: 13%;
     margin-top: -0.5%;
+  }
 
-  }  
-  
   .fundo {
     background-color: #ebebeb;
-    height:100%;
+    height: 100%;
     width: 100%;
   }
 
@@ -398,9 +397,8 @@ progress {
     display: block;
     margin-left: 6%;
     margin-top: 0%;
-    
   }
-  
+
   .barras {
     display: inline-block;
     letter-spacing: 2.4pt;
@@ -410,7 +408,6 @@ progress {
     margin-left: 3%;
     margin-top: 5%;
     width: 45%;
-
   }
 
   .borda-inf {
@@ -421,83 +418,141 @@ progress {
     margin-top: 1%;
     margin-bottom: 1%;
   }
-  
+
   .barras > h1 {
     font-size: 1.8rem;
     font-weight: 400;
   }
-  
+
   progress {
     width: 100%;
     accent-color: salmon;
     height: 20px;
   }
-  
+
   .porcentagem {
     margin-left: 85%;
   }
-  
+
   .barras > h3 {
     margin-top: 3%;
     font-weight: 300;
   }
 
+  .campo-servico {
+    column-count: 1;
+    margin-left: 5%;
+    margin-top: 3%;
+    display: inline-block;
+  }
 
-.campo-servico {
-  column-count: 1;
-  margin-left: 5%;
-  margin-top: 3%;
-  display: inline-block;
-}
+  .bloco > img {
+    width: 80px;
+    height: 80px;
+    margin-left: 15%;
+    margin-top: 5%;
+  }
 
-.bloco > img {
-  width: 80px;
-  height: 80px;
-  margin-left: 15%;
-  margin-top: 5%;
-}
+  .bloco > h4 {
+    font-size: 1.5rem;
+    font-weight: 550;
+    text-align: center;
+    margin-top: 5%;
+  }
 
-.bloco > h4 {
-  font-size: 1.5rem;
-  font-weight: 550;
-  text-align: center;
-  margin-top: 5%;
-}
+  .bloco:hover > h4 {
+    color: #293651;
+  }
 
-.bloco:hover > h4 {
-  color: #293651;
-}
+  .bloco > p {
+    font-size: 20px;
+    text-align: justify;
+    margin-right: 50px;
+    margin-bottom: 35px;
+    margin-left: 75px;
+    margin-top: 5px;
+  }
 
-.bloco > p {
-  font-size: 20px;
-  text-align: justify;
-  margin-right: 50px;
-  margin-bottom: 35px;
-  margin-left: 75px;
-  margin-top: 5px;
-}
+  .bloco {
+    margin-bottom: 25px;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 345px;
+    height: 305px;
+  }
 
-.bloco {
-  margin-bottom: 25px;
-  background-color: #fff;
-  border-radius: 10px;
-  width: 345px;
-  height: 305px;
-}
+  .bloco:hover {
+    background-color: salmon;
+  }
 
-.bloco:hover {
-  background-color: salmon;
-}
+  .fundo-2 {
+    background-color: #ebebeb;
+    width: 100%;
+    height: 100%;
+  }
 
-.fundo-2 {
-  background-color: #ebebeb;
-  width: 100%;
-  height: 100%;
-}
+  .linha-tempo {
+    display: inline-block;
+    vertical-align: top;
+  }
 
+  .coluna {
+    display: inline-block;
+    width: 375px;
+    vertical-align: middle;
+    text-align: justify;
+  }
 
+  .linha > h1 {
+    text-align: left;
+    margin-bottom: 3%;
+    margin-top: 1%;
+    font-weight: 400;
+  }
 
+  .borda-exp {
+    background-color: salmon;
+    border-radius: 7px;
+    padding: 2px 0;
+    width: 32%;
+    margin-top: -18px;
+    margin-bottom: 15px;
+    margin-left: 250px;
+  }
 
+  .linha > h2 {
+    width: 15%;
+    background-color: #5db390;
+    margin-left: 20px;
+  }
 
+  .linha > p {
+    font-size: 16px;
+    width: 20%;
+    letter-spacing: 0.9pt;
+    word-spacing: -0.8pt;
+    line-height: 1.2;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
 
+  .contato {
+    text-align: center;
+    display: inline-block;
+    background-color: #5db390;
+    border-radius: 5px;
+    width: 700px;
+    margin-top: 15px;
+  }
+
+  .contato > h2 {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 220px;
+  }
+
+  .contato > ul > li {
+    list-style: none;
+    font-size: 20px;
+  }
 }
