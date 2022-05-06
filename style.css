@@ -317,7 +317,7 @@ progress {
     color: #293651;
     margin-bottom: 2%;
     margin-left: 20%;
-    margin-top: 2%;
+    margin-top: 5%;
     text-align: left;
     letter-spacing: 5px;
   }
@@ -328,7 +328,7 @@ progress {
     padding: 2px 0;
     width: 30%;
     margin-top: 2%;
-    margin-left: 30%;
+    margin-left: 35%;
     margin-bottom: 5%;
   }
 
@@ -337,7 +337,7 @@ progress {
     font-weight: 200;
     color: #293651;
     margin-bottom: 5%;
-    margin-left: 16%;
+    margin-left: 18%;
     margin-top: 3%;
   }
 
@@ -348,7 +348,7 @@ progress {
     border-radius: 30px;
     margin-left: 2%;
     position: absolute;
-    top: 9.5%;
+    top: 14%;
     left: 3%;
   }
 
@@ -413,6 +413,7 @@ progress {
     margin-top: 5%;
     margin-right: 0%;
     width: 70%;
+    font-size: 1.2rem;
   }
 
   .borda-inf {
@@ -425,7 +426,7 @@ progress {
   }
 
   .barras > h1 {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-weight: 400;
   }
 
@@ -446,7 +447,7 @@ progress {
 
   .campo-servico {
     column-count: 1;
-    margin-left: 20%;
+    margin-left: 17%;
     margin-top: 3%;
     display: inline-block;
   }
@@ -526,7 +527,7 @@ progress {
   }
 
   .linha > h2 {
-    width: 15%;
+    width: 27%;
     background-color: #5db390;
     margin-left: 2%;
   }
@@ -547,13 +548,13 @@ progress {
     border-radius: 5px;
     width: 85%;
     margin-top: -5%;
-    margin-left: 0%;
+    margin-left: 5%;
   }
 
   .contato > h2 {
     font-size: 1.3rem;
     text-align: center;
-    margin-left: 40%;
+    margin-left: 30%;
   }
 
   .contato > ul > li {
