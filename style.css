@@ -287,7 +287,7 @@ progress {
   .direita {
     display: inline-block;
     font-size: 1rem;
-    margin-left: 1%;
+    margin-left: 4%;
     margin-top: 2%;
   }
 
@@ -302,7 +302,7 @@ progress {
 
   .cabecalho > li {
     display: inline-block;
-    margin-left: 6%;
+    margin-left: 2%;
     margin-top: 2%;
     font-size: 1rem;
   }
@@ -312,7 +312,7 @@ progress {
     font-weight: 900;
     color: #293651;
     margin-bottom: 2%;
-    margin-left: 14%;
+    margin-left: 20%;
     margin-top: 2%;
     text-align: left;
     letter-spacing: 5px;
@@ -322,16 +322,17 @@ progress {
     background-color: salmon;
     border-radius: 7px;
     padding: 2px 0;
-    width: 20%;
+    width: 30%;
     margin-top: 2%;
-    margin-left: 20%;
+    margin-left: 30%;
+    margin-bottom: 5%;
   }
 
   .profissao {
     font-size: 1.3rem;
     font-weight: 200;
     color: #293651;
-    margin-bottom: 2%;
+    margin-bottom: 5%;
     margin-left: 9%;
     margin-top: 3%;
   }
@@ -343,8 +344,8 @@ progress {
     border-radius: 30px;
     margin-left: 2%;
     position: absolute;
-    top: 16%;
-    left: 0%;
+    top: 9.5%;
+    left: 3%;
   }
 
   li > img {
@@ -355,10 +356,10 @@ progress {
   }
 
   .img_pri > img {
-    width: 50%;
-    height: 50%;
+    width: 70%;
+    height: 70%;
     display: block;
-    margin-left: 6%;
+    margin-left: 15%;
     margin-top: 0%;
   }
 
@@ -366,12 +367,12 @@ progress {
     font-size: 1.2rem;
     text-align: justify;
     display: inline-block;
-    margin-left: 10%;
+    margin-left: 20%;
     margin-top: -5%;
-    letter-spacing: 1pt;
-    word-spacing: -0.8pt;
-    line-height: 2.2;
-    width: 41%;
+    letter-spacing: 1.5pt;
+    word-spacing: -0.9pt;
+    line-height: 2;
+    width: 70%;
     margin-bottom: 3%;
   }
 
@@ -380,7 +381,7 @@ progress {
     padding: 2px 0;
     width: 30%;
     height: 4px;
-    margin-left: 13%;
+    margin-left: 35%;
     margin-top: -0.5%;
   }
 
@@ -391,10 +392,10 @@ progress {
   }
 
   .img_segunda > img {
-    width: 50%;
-    height: 50%;
+    width: 70%;
+    height: 70%;
     display: block;
-    margin-left: 6%;
+    margin-left: 15%;
     margin-top: 0%;
   }
 
@@ -404,9 +405,10 @@ progress {
     word-spacing: -0.8pt;
     line-height: 2.2;
     text-align: justify;
-    margin-left: 3%;
+    margin-left: 10%;
     margin-top: 5%;
-    width: 45%;
+    margin-right: 0%;
+    width: 70%;
   }
 
   .borda-inf {
@@ -419,7 +421,7 @@ progress {
   }
 
   .barras > h1 {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     font-weight: 400;
   }
 
@@ -430,7 +432,7 @@ progress {
   }
 
   .porcentagem {
-    margin-left: 85%;
+    margin-left: 75%;
   }
 
   .barras > h3 {
@@ -492,6 +494,7 @@ progress {
   .linha-tempo {
     display: inline-block;
     vertical-align: top;
+    margin-left: 2%;
   }
 
   .coluna {
