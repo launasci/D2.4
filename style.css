@@ -290,7 +290,7 @@ progress {
 
   .direita {
     display: inline-block;
-    font-size: 1rem;
+    font-size: 0.8rem;
     margin-left: 4%;
     margin-top: 2%;
   }
@@ -308,7 +308,7 @@ progress {
     display: inline-block;
     margin-left: 2%;
     margin-top: 2%;
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 
   .nome {
@@ -333,11 +333,11 @@ progress {
   }
 
   .profissao {
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-weight: 200;
     color: #293651;
     margin-bottom: 5%;
-    margin-left: 9%;
+    margin-left: 16%;
     margin-top: 3%;
   }
 
@@ -446,7 +446,7 @@ progress {
 
   .campo-servico {
     column-count: 1;
-    margin-left: 10%;
+    margin-left: 25%;
     margin-top: 3%;
     display: inline-block;
   }
@@ -454,8 +454,8 @@ progress {
   .bloco {
     background-color: #fff;
     border-radius: 10px;
-    width: 50%;
-    height: 50%;
+    width: 80%;
+    height: 70%;
   }
 
   .bloco > img {
