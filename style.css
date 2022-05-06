@@ -329,11 +329,11 @@ progress {
   }
 
   .profissao {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 200;
     color: #293651;
-    margin-bottom: 1%;
-    margin-left: 5%;
+    margin-bottom: 2%;
+    margin-left: 9%;
     margin-top: 3%;
   }
 
@@ -441,14 +441,14 @@ progress {
 
   .campo-servico {
     column-count: 1;
-    margin-left: 5%;
+    margin-left: 10%;
     margin-top: 3%;
     display: inline-block;
   }
 
   .bloco > img {
-    width: 80px;
-    height: 80px;
+    width: 25%;
+    height: 25%;
     margin-left: 15%;
     margin-top: 5%;
   }
@@ -465,20 +465,19 @@ progress {
   }
 
   .bloco > p {
-    font-size: 20px;
+    font-size: 1rem;
     text-align: justify;
-    margin-right: 50px;
-    margin-bottom: 35px;
-    margin-left: 75px;
-    margin-top: 5px;
+    margin-right: 10%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-top: 3%;
   }
 
   .bloco {
-    margin-bottom: 25px;
     background-color: #fff;
     border-radius: 10px;
-    width: 345px;
-    height: 305px;
+    width: 40%;
+    height: 40%;
   }
 
   .bloco:hover {
@@ -498,15 +497,16 @@ progress {
 
   .coluna {
     display: inline-block;
-    width: 375px;
     vertical-align: middle;
     text-align: justify;
-    margin-bottom: 40px;
+
   }
 
   .linha > h1 {
-    text-align: le;
-    margin-bottom: 20px;
+    text-align: left;
+    margin-top: -25%;
+    margin-bottom: 4%;
+    margin-left: 12%;
     font-weight: 400;
   }
 
@@ -514,23 +514,22 @@ progress {
     background-color: salmon;
     border-radius: 7px;
     padding: 2px 0;
-    width: 32%;
-    margin-top: -18px;
-    margin-bottom: 15px;
-    margin-left: 250px;
+    width: 30%;
+    margin-bottom: 8%;
+    margin-left: 8%;
   }
 
   .linha > h2 {
     width: 15%;
     background-color: #5db390;
-    margin-left: 20px;
+    margin-left: 2%;
   }
 
   .linha > p {
     font-size: 16px;
     width: 20%;
-    letter-spacing: 0.9pt;
-    word-spacing: -0.8pt;
+    letter-spacing: 0.6pt;
+    word-spacing: -0.3pt;
     line-height: 1.2;
     margin-right: 20px;
     margin-left: 20px;
@@ -541,18 +540,19 @@ progress {
     display: inline-block;
     background-color: #5db390;
     border-radius: 5px;
-    width: 700px;
+    width: 100%;
     margin-top: 15px;
+    margin-left: -12%;
   }
 
   .contato > h2 {
-    font-size: 25px;
+    font-size: 1.3rem;
     text-align: center;
-    margin-left: 220px;
+    margin-left: 40%;
   }
 
   .contato > ul > li {
     list-style: none;
-    font-size: 20px;
+    font-size: 1rem;
   }
 }
