@@ -287,23 +287,22 @@ progress {
   .direita {
     display: inline-block;
     font-size: 1rem;
-    margin-left: 2%;
+    margin-left: 1%;
     margin-top: 2%;
   }
 
   .cabecalho {
-    margin-left: 2%;
+    margin-left: 1%;
     display: inline-block;
     margin-top: 2%;
     margin-bottom: 2%;
-    font-weight: 50;
-    width: 41%;
+    width: 70%;
     text-align: end;
   }
 
   .cabecalho > li {
     display: inline-block;
-    margin-left: 5%;
+    margin-left: 6%;
     margin-top: 2%;
     font-size: 1rem;
   }
@@ -536,13 +535,12 @@ progress {
   }
 
   .contato {
-    text-align: center;
     display: inline-block;
     background-color: #5db390;
     border-radius: 5px;
-    width: 100%;
-    margin-top: 15px;
-    margin-left: -12%;
+    width: 85%;
+    margin-top: -5%;
+    margin-left: 0%;
   }
 
   .contato > h2 {
@@ -555,4 +553,5 @@ progress {
     list-style: none;
     font-size: 1rem;
   }
+
 }
