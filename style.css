@@ -279,7 +279,11 @@ progress {
 /* ----------MEDIA QUERIES------------- */
 
 /* ---MENU--- */
-@media (max-width: 768px) {
+@media (max-width: 576px) {
+
+*{ 
+  margin: 0%;
+}
   body {
     position: absolute;
   }
@@ -405,7 +409,7 @@ progress {
     word-spacing: -0.8pt;
     line-height: 2.2;
     text-align: justify;
-    margin-left: 10%;
+    margin-left: 15%;
     margin-top: 5%;
     margin-right: 0%;
     width: 70%;
@@ -447,6 +451,13 @@ progress {
     display: inline-block;
   }
 
+  .bloco {
+    background-color: #fff;
+    border-radius: 10px;
+    width: 50%;
+    height: 50%;
+  }
+
   .bloco > img {
     width: 25%;
     height: 25%;
@@ -472,13 +483,6 @@ progress {
     margin-bottom: 2%;
     margin-left: 10%;
     margin-top: 3%;
-  }
-
-  .bloco {
-    background-color: #fff;
-    border-radius: 10px;
-    width: 40%;
-    height: 40%;
   }
 
   .bloco:hover {
