@@ -399,7 +399,7 @@ progress {
     width: 70%;
     height: 70%;
     display: block;
-    margin-left: 15%;
+    margin-left: 10%;
     margin-top: 0%;
   }
 
@@ -409,7 +409,7 @@ progress {
     word-spacing: -0.8pt;
     line-height: 2.2;
     text-align: justify;
-    margin-left: 15%;
+    margin-left: 10%;
     margin-top: 5%;
     margin-right: 0%;
     width: 70%;
@@ -446,7 +446,7 @@ progress {
 
   .campo-servico {
     column-count: 1;
-    margin-left: 25%;
+    margin-left: 20%;
     margin-top: 3%;
     display: inline-block;
   }
@@ -498,7 +498,7 @@ progress {
   .linha-tempo {
     display: inline-block;
     vertical-align: top;
-    margin-left: 2%;
+    margin-left: 10%;
   }
 
   .coluna {
@@ -510,7 +510,7 @@ progress {
 
   .linha > h1 {
     text-align: left;
-    margin-top: -25%;
+    margin-top: -50%;
     margin-bottom: 4%;
     margin-left: 12%;
     font-weight: 400;
@@ -520,9 +520,9 @@ progress {
     background-color: salmon;
     border-radius: 7px;
     padding: 2px 0;
-    width: 30%;
+    width: 40%;
     margin-bottom: 8%;
-    margin-left: 8%;
+    margin-left: 15%;
   }
 
   .linha > h2 {
@@ -533,7 +533,7 @@ progress {
 
   .linha > p {
     font-size: 16px;
-    width: 20%;
+    width: 45%;
     letter-spacing: 0.6pt;
     word-spacing: -0.3pt;
     line-height: 1.2;
