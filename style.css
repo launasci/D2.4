@@ -2,7 +2,6 @@
   padding: 0;
   margin: 0;
 }
-
 body {
   color: #293651;
 }
@@ -12,7 +11,6 @@ body {
   font-size: 22px;
   margin-left: 230px;
 }
-
 .cabecalho {
   margin-left: 570px;
   display: inline-block;
@@ -278,11 +276,10 @@ progress {
 
 /* ----------MEDIA QUERIES------------- */
 
-@media (max-width: 576px) {
-
-*{ 
-  margin: 0%;
-}
+@media (max-width: 576px) { 
+  * {
+    margin: 0%;
+  }
   body {
     position: absolute;
   }
@@ -505,7 +502,6 @@ progress {
     display: inline-block;
     vertical-align: middle;
     text-align: justify;
-
   }
 
   .linha > h1 {
@@ -560,5 +556,4 @@ progress {
     list-style: none;
     font-size: 1rem;
   }
-
-}
+} 
